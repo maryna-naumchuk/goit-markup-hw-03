@@ -311,9 +311,8 @@ img {
 /* #endregion Team */
 
 /* #region Portfolio */
-.portfolio {
-    padding-top: 120px;
-    padding-bottom: 120px;
+.section .portfolio {
+    padding: 120px 0;
 }
 
 .portfolio-title {
